@@ -4026,6 +4026,8 @@ msgid ""
 "This section is a prerequisite. You must complete this section in order to "
 "unlock additional content."
 msgstr ""
+"Phần này là điều kiện tiên quyết. Bạn phải hoàn thành phần này để "
+"mở khóa nội dung bổ sung."
 
 #: common/lib/xmodule/xmodule/seq_module.py
 msgid ""
@@ -4920,7 +4922,7 @@ msgstr ""
 
 #: lms/djangoapps/certificates/views/support.py
 msgid "An unexpected error occurred while regenerating certificates."
-msgstr ""
+msgstr "Đã xảy ra lỗi không mong muốn khi tạo lại chứng chỉ."
 
 #. Translators:  This text describes the 'Honor' course certificate type.
 #: lms/djangoapps/certificates/views/webview.py
@@ -12470,15 +12472,15 @@ msgstr ""
 
 #: lms/templates/preview_menu.html
 msgid "View this course as:"
-msgstr ""
+msgstr "Xem khóa học này dưới vai trò"
 
 #: lms/templates/preview_menu.html
 msgid "Learner"
-msgstr ""
+msgstr "Người học"
 
 #: lms/templates/preview_menu.html
 msgid "Specific learner"
-msgstr ""
+msgstr "Học viên cụ thể"
 
 #: lms/templates/preview_menu.html
 msgid "Learner in {content_group}"
@@ -12494,7 +12496,7 @@ msgstr "Thiết lập chế độ xem trước"
 
 #: lms/templates/preview_menu.html
 msgid "You are now viewing the course as {i_start}{user_name}{i_end}."
-msgstr ""
+msgstr "Bạn đang xem khóa học dưới vai trò {i_start}{user_name}{i_end}."
 
 #: lms/templates/problem.html
 msgid "You have used {num_used} of {num_total} attempt"
